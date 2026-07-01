@@ -60,11 +60,7 @@ Capsule Render allows you to customize:
 * 📍 Text alignment
 
 
-### Example
 
-```html
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFB3,100:92FE9D&text=Hi,%20I'm%20Kamlesh%20Shinde&fontColor=FFFFFF&fontSize=55&fontAlignY=35&animation=twinkling"/>
-```
 
 ### Preview
 
@@ -128,4 +124,72 @@ GitHub Streak displays:
 <img src="https://streak-stats.demolab.com?user=kamlesh-162&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+## 🎬 GIFs & Animations
+
+Enhance your GitHub profile with eye-catching GIFs and animations. 
+
+### 📦 Categories
+
+* 💻 Coding & Developer GIFs
+* 🚀 Rocket & Space Animations
+* 🌊 Animated Banners
+* ⚡ Cyberpunk & Neon Effects
+
+---
+
+### 💡 Tips
+
+* ✅ Keep GIF file sizes small for faster loading.
+* ✅ Organize assets into folders by category.
+* ✅ Use descriptive filenames such as `terminal.gif`, `rocket.gif`, or `typing.svg`.
+
+### Preview
+ 
+### Snake game from a github user contributions graph
+
+   <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+
+### Hacker/Coding GIF
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+
+
+### Aurora Background (Animated)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:92FE9D&height=250&section=header&text=Kamlesh%20Shinde&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+### Animated Wave Divider
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:6C63FF,100:00C9FF"/>
+
+
+### VS Code Typing Animation
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;C%2B%2B+DSA;Learning+Docker;Open+Source+Enthusiast"/>
+
+### Astronaut Coding
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500">
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500">
+
+
+### Cyber Grid Background
+
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/grid.gif" width="100%" hight="200">
+
+
+### T-rex
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
+
+
+
 
