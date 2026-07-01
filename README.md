@@ -1,95 +1,38 @@
-# 🎨 Readme Assets
-
-A personal collection of custom assets used across my GitHub profile and projects.
-
-This repository serves as a central place to store and manage reusable visual resources, making it easier to maintain consistent branding across my GitHub repositories and portfolio.
-
----
-
-## 📦 Repository Structure
-
-```text
-readme-assets/
-│
-├── gifs/
-│   ├── coding/
-│   ├── developer/
-│   ├── terminal/
-│   ├── cyberpunk/
-│   └── misc/
-│
-├── animations/
-│   ├── svg/
-│   ├── lottie/
-│   └── css/
-│
-├── banners/
-│
-├── icons/
-│
-├── illustrations/
-│
-├── logos/
-│
-├── screenshots/
-│
-└── wallpapers/
-```
-
----
-
-## ✨ What's Inside?
-
-* 🎬 Custom GIF animations
-* 🎨 Animated SVG graphics
-* 🌊 Header & footer banners
-* 💻 Developer illustrations
-* 🚀 Project showcase graphics
-* 🖼️ Repository screenshots
-* 🎯 Icons and logos
-* 🌌 Background images
-* 📱 UI assets
-
----
-
-## 🚀 Usage
-
-You can use any asset directly in your GitHub README.
-
-Example:
-
-```html
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/readme-assets/main/gifs/coding/coding.gif" width="120">
-```
-
-Or, if you're using the assets inside the same repository:
-
-```html
-<img src="./gifs/coding/coding.gif" width="120">
-```
-
----
-
-## 📌 Purpose
-
-This repository helps me:
-
-* Keep my GitHub profile organized
-* Reuse assets across multiple repositories
-* Store custom animations and banners
-* Maintain a consistent visual style
-* Avoid broken external image links
-
----
-
-## 📜 License
-
-Unless otherwise specified, all custom assets in this repository are created by **Kamlesh Shinde** for personal use. Please do not redistribute or reuse them without permission.
-
----
-
 <div align="center">
 
-**Made with ❤️ by Kamlesh Shinde**
+**Made with ❤️ by [Kamlesh](https://github.com/kamlesh-162)**  
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="100"  />
+
+</div>
+
+---
+
+<p >
+  <h3 >  1) Readme Typing SVG</h3>
+</p>
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+Here you can easily customize your Typing SVG with a live preview.
+
+<https://readme-typing-svg.demolab.com/demo/>
+
+[![Demo Site](https://user-images.githubusercontent.com/20955511/183703055-42ec8754-d84c-414f-8132-a02974224aa1.gif "Demo Site")](https://readme-typing-svg.demolab.com/demo/)
+
+---
+
+<p >
+  <h3 >  2) Skill Icons</h3>
+</p>
+<br>
+
+The technology icons come from
+<https://skillicons.dev/>
+Here you can easily find skill icons .
+<div>
+  
+<img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,javascript,git,vscode" />
 </div>
